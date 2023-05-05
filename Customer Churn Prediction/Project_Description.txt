@@ -1,0 +1,7 @@
+What is Customer Churn Prediction:
+
+Churn Prediction is predicting which clients will most likely cancel a subscription i.e a 'leave a company' based on their usage of their service. 
+
+Why? 
+
+From a company's Point of view, it is necessary for them to gain this information because acquiriting new customers for their services is often arduous and costlier compare to retaining the old ones. And that's why the insights they gain from the customer Churn Prediciton help them to focus more on the current customers which are at a high risk of leaving the company.
