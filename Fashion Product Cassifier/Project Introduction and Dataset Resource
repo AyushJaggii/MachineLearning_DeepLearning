@@ -1,0 +1,21 @@
+What is a Fashion Product Classifier?
+It is a Deep learning Classification Model which Classifies the category of a Fashion Product. It can be anything from footwear to a shirt.
+
+Why is the Need for this Classification?
+Visual classification of commercial products is a branch of the wider fields of object detection and feature extraction in computer vision, and, in particular, it is an important step in the creative workflow in Product industries. Automatically classifying Product features makes both designers and data experts aware of their overall production, which is fundamental in order to organize marketing campaigns, avoid duplicates, categorize apparel products for e-commerce purposes, and so on.
+
+Prerequisites for the Project:
+
+1. Basic Knowledge of Python
+2. Understanding of Deep Learning
+
+
+
+
+
+
+
+
+
+Link for the Dataset on Kaggle: 
+https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small?resource=download
